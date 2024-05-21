@@ -72,7 +72,7 @@
       </a>
     </p>
   </div>
-  <div style="width: 40%; text-align: right;">
+  <div style="width: 70%; text-align: right;">
     <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="animated image" style="max-width: 100%; height: auto;">
   </div>
 </div>
