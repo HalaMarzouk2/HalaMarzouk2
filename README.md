@@ -13,10 +13,10 @@
   <div style="width: 60%;">
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-      <a href="https://linkedin.com/in/www.linkedin.com/in/hala-mohamed-marzouk-2059031b8" target="_blank" rel="noreferrer">
+      <a href="https://linkedin.com/in/hala-mohamed-marzouk-2059031b8" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hala-mohamed-marzouk-2059031b8" height="30" width="40"/>
       </a>
-      <a href="https://hashnode.com/https://hashnode.com/@hala22" target="_blank" rel="noreferrer">
+      <a href="https://hashnode.com/@hala22" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@hala22" height="30" width="40"/>
       </a>
     </p>
